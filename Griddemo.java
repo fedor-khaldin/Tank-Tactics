@@ -64,6 +64,8 @@ public static void main(String[] args)
     panel.add(btn5);
 
     panel.add(btn6);
+    
+    
   
     // Function to close the operation of JFrame.
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
