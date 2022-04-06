@@ -14,6 +14,8 @@ public static void main(String[] args)
     // Creating Object of JFrame class 
     // with new name frame
     JFrame frame = new JFrame("GridLayout Demo");
+
+    
   
     // Initialization of object 
     // "btn1" of JButton class.
@@ -65,7 +67,7 @@ public static void main(String[] args)
 
     panel.add(btn6);
     
-    
+
   
     // Function to close the operation of JFrame.
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
